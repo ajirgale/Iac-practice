@@ -177,4 +177,4 @@ resource "azurerm_network_interface" "vm_nic" {
   }
 }
 
-#added a comment
+#added a comment12
