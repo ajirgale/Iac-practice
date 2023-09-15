@@ -176,3 +176,5 @@ resource "azurerm_network_interface" "vm_nic" {
     private_ip_address_allocation = "Dynamic"
   }
 }
+
+#added a comment12
